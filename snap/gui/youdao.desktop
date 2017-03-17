@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=You Dao
+GenericName=YouDao
+Comment=YouDao dictionary
+Keywords=dict,dictionary
+Exec=youdao
+Icon=${SNAP}/meta/gui/icon.png
+Terminal=false
+StartupNotify=true
